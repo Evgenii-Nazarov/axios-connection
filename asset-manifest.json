@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axios-connection/static/css/main.5f361e03.chunk.css",
+    "main.js": "/axios-connection/static/js/main.59ee5b20.chunk.js",
+    "main.js.map": "/axios-connection/static/js/main.59ee5b20.chunk.js.map",
+    "runtime-main.js": "/axios-connection/static/js/runtime-main.ff676d91.js",
+    "runtime-main.js.map": "/axios-connection/static/js/runtime-main.ff676d91.js.map",
+    "static/js/2.1626eb19.chunk.js": "/axios-connection/static/js/2.1626eb19.chunk.js",
+    "static/js/2.1626eb19.chunk.js.map": "/axios-connection/static/js/2.1626eb19.chunk.js.map",
+    "index.html": "/axios-connection/index.html",
+    "precache-manifest.6b18a691d58477bd13e6445ebe85a5c4.js": "/axios-connection/precache-manifest.6b18a691d58477bd13e6445ebe85a5c4.js",
+    "service-worker.js": "/axios-connection/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/axios-connection/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1626eb19.chunk.js.LICENSE.txt": "/axios-connection/static/js/2.1626eb19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff676d91.js",
+    "static/js/2.1626eb19.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59ee5b20.chunk.js"
+  ]
+}
